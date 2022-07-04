@@ -1,3 +1,5 @@
+package test;
+
 import perceptron.Neuron;
 import perceptron.Perceptron;
 import utils.FileUtils;
@@ -5,7 +7,7 @@ import utils.FileUtils;
 import java.util.*;
 import java.util.stream.Stream;
 
-public class Main {
+public class PerceptronTest {
 
     public static void main(String[] args) {
 
