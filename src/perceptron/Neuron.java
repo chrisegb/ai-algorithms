@@ -1,3 +1,5 @@
+package perceptron;
+
 import java.util.List;
 
 public class Neuron {

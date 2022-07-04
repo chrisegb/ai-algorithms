@@ -1,3 +1,7 @@
+import perceptron.Neuron;
+import perceptron.Perceptron;
+import utils.FileUtils;
+
 import java.util.*;
 import java.util.stream.Stream;
 
